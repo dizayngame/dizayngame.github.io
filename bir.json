@@ -1,28 +1,12 @@
 {
     "aksiyon": [
         {
-                "id": "c200",
-                "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c201",
-                "name": "Johnny Depp",
-                "email": "johnny_depp@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "video_name": "Peliculas de acción de crimen",
+                "video_url": "Ouo2VY69QOQ",
+                "video_like": "2,6 B",
+                "video_dislike": "667",
+                "video_resim" : "https://i.ytimg.com/vi/Ouo2VY69QOQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==u0026rs=AOn4CLCrmgyZ7HC-81zGaT4sjs8GowWF9Q%22,%22width%22:246,%22height%22:138",
+                "video_suresi" : "01:49:57"
         }
   ]
 }
