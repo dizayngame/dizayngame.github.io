@@ -1,13 +1,85 @@
 {
     "fantastico": [
         {
-                "video_name": "Peliculas de acción de crimen",
-                "video_url": "Ouo2VY69QOQ",
+                "video_name": "Huida hacia el sol",
+                "video_url": "A6HtZ07pltQ",
+                "video_like": "9,6",
+                "video_dislike": "1,9",
+                "video_view": "4.651.043",
+                "video_resim" : "https://i.ytimg.com/vi/A6HtZ07pltQ/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLALu7qCOkGPbULADKnuINCzz5tnZg","width":196,"height":110",
+                "video_suresi" : "1:35:20"
+        },
+         {
+                "video_name": "Las brujas de Zugarramurdi",
+                "video_url": "Gf9JI4e27Yg",
+                "video_like": "76",
+                "video_dislike": "8",
+                "video_view": "7.051",
+                "video_resim" : "https://i.ytimg.com/vi/Gf9JI4e27Yg/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLAP3TLiNEbv2thWxDofCbUmhZvbfg","width":196,"height":110",
+                "video_suresi" : "1:44:59"
+        },
+        {
+                "video_name": "El guerrero pacífico",
+                "video_url": "tU5ZtrUPeKQ",
+                "video_like": "11 B",
+                "video_dislike": "1 B",
+                "video_view": "2.170.015",
+                "video_resim" : "https://i.ytimg.com/vi/tU5ZtrUPeKQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLCruOSjab8Le7deFjmjUEVA6LQlsw","width":168,"height":94",
+                "video_suresi" : "2:00:50"
+        },
+         {
+                "video_name": "Chevere",
+                "video_url": "09oWy3kwr_8",
+                "video_like": "1,3 B",
+                "video_dislike": "480",
+                "video_view": "919.856",
+                "video_resim" : "https://i.ytimg.com/vi/09oWy3kwr_8/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLDSR99nYI_23wtmRhHUToJuanIwhw","width":196,"height":110",
+                "video_suresi" : "1:31:41"
+        },
+        {
+                "video_name": "El secreto de la ultima luna",
+                "video_url": "m2Dbhr7x-yo",
+                "video_like": "33 B",
+                "video_dislike": "1,4 B",
+                "video_view": "3.215.545",
+                "video_resim" : "https://i.ytimg.com/vi/m2Dbhr7x-yo/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLAtEZlq-q4U4IcMhOa_jpHpcgWEfw","width":196,"height":110",
+                "video_suresi" : "1:38:43"
+        },
+         {
+                "video_name": "El vengador",
+                "video_url": "PfGhq8Ttne0",
                 "video_like": "2,6 B",
-                "video_dislike": "667",
-                "video_view": "1.521.624",
-                "video_resim" : "https://i.ytimg.com/vi/Ouo2VY69QOQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==u0026rs=AOn4CLCrmgyZ7HC-81zGaT4sjs8GowWF9Q%22,%22width%22:246,%22height%22:138",
-                "video_suresi" : "01:49:57"
+                "video_dislike": "346",
+                "video_view": "688.757",
+                "video_resim" : "https://i.ytimg.com/vi/PfGhq8Ttne0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLB94ieFFCVw5JxSClCbEFQfNzldaw","width":168,"height":94",
+                "video_suresi" : "1:49:59"
+        },
+        {
+                "video_name": "Pelicula completa en Español 1",
+                "video_url": "X8glR-ZoKWw",
+                "video_like": "30 B",
+                "video_dislike": "1,3 B",
+                "video_view": "12.763.580",
+                "video_resim" : "https://i.ytimg.com/vi/X8glR-ZoKWw/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLDi2vw_4Oy2vvr4kMS4tuwn6eAVow","width":196,"height":110",
+                "video_suresi" : "1:43:11"
+        },
+         {
+                "video_name": "Transportador 3",
+                "video_url": "DmkQiNov8Zs&t=2282s",
+                "video_like": "4,3 B",
+                "video_dislike": "494",
+                "video_view": "874.950",
+                "video_resim" : "https://i.ytimg.com/vi/DmkQiNov8Zs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLAy_JdQp8duAapuoslZojQAnLs8Dw","width":168,"height":94",
+                "video_suresi" : "1:43:59"
+        },
+        {
+                "video_name": "Alpha 2020",
+                "video_url": "DZgzbFwgj6c&t=2528s",
+                "video_like": "3,7 B",
+                "video_dislike": "594",
+                "video_view": "1.096.187",
+                "video_resim" : "https://i.ytimg.com/vi/DZgzbFwgj6c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLDuW8fS-3qtsScPCOa2OM9zJs9HVw","width":168,"height":94",
+                "video_suresi" : "1:35:53"
         }
   ]
 }
