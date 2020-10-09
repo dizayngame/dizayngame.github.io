@@ -1,13 +1,76 @@
 {
     "cicienca": [
         {
-                "video_name": "Peliculas de acción de crimen",
-                "video_url": "Ouo2VY69QOQ",
-                "video_like": "2,6 B",
-                "video_dislike": "667",
-                "video_view": "1.521.624",
-                "video_resim" : "https://i.ytimg.com/vi/Ouo2VY69QOQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==u0026rs=AOn4CLCrmgyZ7HC-81zGaT4sjs8GowWF9Q%22,%22width%22:246,%22height%22:138",
-                "video_suresi" : "01:49:57"
+                "video_name": "Teleios",
+                "video_url": "DZXhj9ajf5M",
+                "video_like": "3,1 B",
+                "video_dislike": "523",
+                "video_view": "579.938",
+                "video_resim" : "https://i.ytimg.com/vi/DZXhj9ajf5M/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLA-waLpllwL7OYtdVHbO7lIJESRxA","width":196,"height":110",
+                "video_suresi" : "1:29:53"
+        },
+         {
+                "video_name": "Capitana Marvel (2019)",
+                "video_url": "YziTEOFhl1I",
+                "video_like": "1B ",
+                "video_dislike": "56",
+                "video_view": "726.387",
+                "video_resim" : "https://i.ytimg.com/vi/YziTEOFhl1I/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLBNNAe1v1ASeUg7jOGuwK8nIsk6wQ","width":196,"height":110",
+                "video_suresi" : "1:37:45"
+        },
+        {
+                "video_name": "El juego de Ender",
+                "video_url": "7JarzabLs4A",
+                "video_like": "100",
+                "video_dislike": "11",
+                "video_view": "15.732",
+                "video_resim" : "https://i.ytimg.com/vi/7JarzabLs4A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLAn98CYOMvqhwZP9juj16WJ_rE7WA","width":168,"height":94",
+                "video_suresi" : "1:40:56"
+        },
+         {
+                "video_name": "El Dia del Juicio Final",
+                "video_url": "ZhKtSULVN2I",
+                "video_like": "4,5 B",
+                "video_dislike": "1 B",
+                "video_view": "1.449.341",
+                "video_resim" : "https://i.ytimg.com/vi/ZhKtSULVN2I/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLBMyXliffxR3QkHBDqvqitl2VjGdA","width":168,"height":94",
+                "video_suresi" : "1:25:20"
+        },
+        {
+                "video_name": "Furia de Dragones",
+                "video_url": "EzXiqSGzves",
+                "video_like": "4,8 B",
+                "video_dislike": "447",
+                "video_view": "724.735",
+                "video_resim" : "https://i.ytimg.com/vi/EzXiqSGzves/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLA3kHJxu7Wq1Af088vwKMNrOfKkCA","width":168,"height":94",
+                "video_suresi" : "1:30:04"
+        },
+         {
+                "video_name": "Destıny 2",
+                "video_url": "VI0aooqx65s",
+                "video_like": "12 B",
+                "video_dislike": "1,6 B",
+                "video_view": "2.620.234",
+                "video_resim" : "https://i.ytimg.com/vi/VI0aooqx65s/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLCJqbAyEN_tJUDrnqaPXAWfXdUK5g","width":196,"height":110",
+                "video_suresi" : "1:44:08"
+        },
+        {
+                "video_name": "Hulk",
+                "video_url": "xZIPYweCxOI",
+                "video_like": "258",
+                "video_dislike": "101",
+                "video_view": "118.829",
+                "video_resim" : "https://i.ytimg.com/vi/xZIPYweCxOI/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLBxeFs4fav4W6ulImtJs6ddMs7dIw","width":196,"height":110",
+                "video_suresi" : "1:35:53"
+        },
+         {
+                "video_name": "Nueva Mejor Peliculas De Ciencia ficción",
+                "video_url": "E0CxXt1Q61A",
+                "video_like": "52",
+                "video_dislike": "11",
+                "video_view": "13.540",
+                "video_resim" : "https://i.ytimg.com/vi/E0CxXt1Q61A/hqdefault.jpg?sqp=-oaymwEYCMQBEG5IVfKriqkDCwgBFQAAiEIYAXABu0026rs=AOn4CLCYcRwCjgyNC5U99Cwq_Yr7YCR90g","width":196,"height":110",
+                "video_suresi" : "2:11:1+"
         }
   ]
 }
