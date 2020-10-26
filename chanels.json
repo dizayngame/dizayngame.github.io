@@ -18,7 +18,7 @@
 				]
                 
         },
-	    {
+	{
 	    "channel_name": "Futuro Perdido2",
                 "kanal_fkaynak": [
 				{
@@ -34,6 +34,6 @@
 				  "channel_Url","https://www.selcuk"
 				}
 				]
-	    }
+	}
   ]
 }
