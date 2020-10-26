@@ -15,8 +15,11 @@
 				  "channel_format","mpsm"
 				  "channel_Url","https://www.muhsin"
 				}
-				],
-				"channel_name": "Futuro Perdido2",
+				]
+                
+        },
+	    {
+	    "channel_name": "Futuro Perdido2",
                 "kanal_fkaynak": [
 				{
 				  "channel_format","m3u8"
@@ -31,7 +34,6 @@
 				  "channel_Url","https://www.selcuk"
 				}
 				]
-                
-        }
+	    }
   ]
 }
