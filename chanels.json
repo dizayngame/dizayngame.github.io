@@ -3,36 +3,36 @@
         {
                 "channel_name": "Futuro Perdido1",
                 "kanal_fkaynak": [
-				{
-				  "channel_format":"m3u8",
-				  "channel_Url":"https://www.selcuk"
-				},
-				{
-				  "channel_format":"mmpd",
-				  "channel_Url":"https://www.ayse"
-				},
-				{
-				  "channel_format":"mpsm",
-				  "channel_Url":"https://www.muhsin"
-				}
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://www.selcuk"
+					},
+					{
+				  	"channel_format":"mmpd",
+				  	"channel_Url":"https://www.ayse"
+					},
+					{
+				  	"channel_format":"mpsm",
+				  	"channel_Url":"https://www.muhsin"
+					}
 				]
                 
         },
 	{
 	    "channel_name": "Futuro Perdido2",
                 "kanal_fkaynak": [
-				{
-				  "channel_format":"m3u8",
-				  "channel_Url":"https://www.muhsin"
-				},
-				{
-				  "channel_format":"mmpd",
-				  "channel_Url":"https://www.ayse"
-				},
-				{
-				  "channel_format":"mpsm",
-				  "channel_Url":"https://www.selcuk"
-				}
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://www.muhsin"
+					},
+					{
+				  	"channel_format":"mmpd",
+				  	"channel_Url":"https://www.ayse"
+					},
+					{
+				  	"channel_format":"mpsm",
+				  	"channel_Url":"https://www.selcuk"
+					}
 				]
 	}
   ]
