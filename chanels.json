@@ -1,37 +1,33 @@
 {
     "kanallar": [
         {
-                "channel_name": "Futuro Perdido1",
+                "channel_name": "Esport 3",
                 "kanal_kaynak": [
 					{
 				  	"channel_format":"m3u8",
-				  	"channel_Url":"https://www.selcuk"
+				  	"channel_Url":"https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8"
 					},
 					{
-				  	"channel_format":"mmpd",
-				  	"channel_Url":"https://www.ayse"
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8"
 					},
 					{
-				  	"channel_format":"mpsm",
-				  	"channel_Url":"https://www.muhsin"
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8"
 					}
 				]
                 
         },
 	{
-	    "channel_name": "Futuro Perdido2",
+	    "channel_name": "Empordà TV",
                 "kanal_kaynak": [
 					{
 				  	"channel_format":"m3u8",
-				  	"channel_Url":"https://www.muhsin"
+				  	"channel_Url":"https://liveingesta118.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
 					},
 					{
-				  	"channel_format":"mmpd",
-				  	"channel_Url":"https://www.ayse"
-					},
-					{
-				  	"channel_format":"mpsm",
-				  	"channel_Url":"https://www.selcuk"
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
 					}
 				]
 	}
