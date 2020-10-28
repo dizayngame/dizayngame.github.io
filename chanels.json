@@ -2,7 +2,7 @@
     "kanallar": [
         {
                 "channel_name": "Futuro Perdido1",
-                "kanal_fkaynak": [
+                "kanal_kaynak": [
 					{
 				  	"channel_format":"m3u8",
 				  	"channel_Url":"https://www.selcuk"
@@ -20,7 +20,7 @@
         },
 	{
 	    "channel_name": "Futuro Perdido2",
-                "kanal_fkaynak": [
+                "kanal_kaynak": [
 					{
 				  	"channel_format":"m3u8",
 				  	"channel_Url":"https://www.muhsin"
