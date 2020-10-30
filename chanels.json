@@ -1,0 +1,135 @@
+{
+    "kanallar": [
+        {
+                "channel_name": "Esport 3",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8"
+					}
+				]
+                
+        },
+		{
+				"channel_name": "Empordà TV",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://liveingesta118.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "Paramount Network",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://paramount-live.flumotion.com/live/playlist.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "24h",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://rtvelivestream.akamaized.net/24h_dvr.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "+24",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8"
+					},
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "Canal Parlamento",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "Andalucía",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "Canal Sur 1 Andalucía",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "Canal Sur 2 Andalucía",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://eg128.tmira.com/rtvalive/canal2/playlist.m3u8"
+					}
+				]
+		},
+		{
+				"channel_name": "324",
+                "kanal_kaynak": [
+					{
+				  	"channel_format":"m3u8",
+				  	"channel_Url":"https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8"
+					}
+				]
+		}
+  ]
+}
