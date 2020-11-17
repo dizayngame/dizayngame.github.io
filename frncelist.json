@@ -86,6 +86,26 @@
 					{
 				  	"canal_type":"m3u8",
 				  	"canal_url":"https://raw.githubusercontent.com/sofien4387/token/master/six_ter",
+					"canal_player_values":"1"
+					}
+				]
+        },
+		{
+                "canal_name": "TF1",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
+					"canal_player_values":"2"
+					}
+				]
+        },
+		{
+                "canal_name": "Chérie 25",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"http://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8",
 					"canal_player_values":"2"
 					}
 				]
