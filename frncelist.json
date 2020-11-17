@@ -109,6 +109,76 @@
 					"canal_player_values":"2"
 					}
 				]
+        },
+		{
+                "canal_name": "Gulli",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8",
+					"canal_player_values":"2"
+					}
+				]
+        },
+		{
+                "canal_name": "France Info",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"canal_player_values":"3"
+					}
+				]
+        },
+		{
+                "canal_name": "La Chaîne parlementaire",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1",
+					"canal_player_values":"3"
+					}
+				]
+        },
+		{
+                "canal_name": "C8",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1",
+					"canal_player_values":"3"
+					}
+				]
+        },
+		{
+                "canal_name": "L'Equipe",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1",
+					"canal_player_values":"3"
+					}
+				]
+        },
+		{
+                "canal_name": "CSTAR",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1",
+					"canal_player_values":"3"
+					}
+				]
+        },
+		{
+                "canal_name": "RMC Story",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://www.dailymotion.com/embed/video/x13p3qi?autoPlay=1",
+					"canal_player_values":"3"
+					}
+				]
         }
   ]
 }
