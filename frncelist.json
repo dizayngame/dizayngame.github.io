@@ -39,8 +39,7 @@
 					"canal_player_values":"2"
 					}
 				]
-        }
-		,
+        },
 		{
                 "canal_name": "TMC",
                 "canal_tay": [
@@ -48,6 +47,26 @@
 				  	"canal_type":"m3u8",
 				  	"canal_url":"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
 					"canal_player_values":"2"
+					}
+				]
+        },
+		{
+                "canal_name": "BFMTV",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
+					"canal_player_values":"2"
+					}
+				]
+        },
+		{
+                "canal_name": "NRJ 12",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8?sd=10&rebase=on",
+					"canal_player_values":"1"
 					}
 				]
         }
