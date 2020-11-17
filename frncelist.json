@@ -40,5 +40,16 @@
 					}
 				]
         }
+		,
+		{
+                "canal_name": "TMC",
+                "canal_tay": [
+					{
+				  	"canal_type":"m3u8",
+				  	"canal_url":"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
+					"canal_player_values":"2"
+					}
+				]
+        }
   ]
 }
