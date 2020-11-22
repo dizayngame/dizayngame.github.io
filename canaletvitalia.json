@@ -1,0 +1,31 @@
+{
+    "italitv": [
+		{
+                "nomedelcanale": "Rai YoYo",
+                "numerodicanale": [
+					{
+				  	"formatodelcanale":"m3u8",
+				  	"urldelcanale":"http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8"
+					}
+				]
+        },
+		{
+                "nomedelcanale": "Rai Gulp",
+                "numerodicanale": [
+					{
+				  	"formatodelcanale":"m3u8",
+				  	"urldelcanale":"http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8"
+					}
+				]
+        },
+		{
+                "nomedelcanale": "TeleTicino TV",
+                "numerodicanale": [
+					{
+				  	"formatodelcanale":"m3u8",
+				  	"urldelcanale":"http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8"
+					}
+				]
+        }
+  ]
+}
