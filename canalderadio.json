@@ -4,7 +4,7 @@
                 "Nombredelcanal": "Radio Marca Sevilla",
                 "numerodecanal": [
 					{
-				  	"Formatodecanal":"m3u8",
+				  	"Formatodecanal":"mp3",
 				  	"Urldecanal":"https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3"
 					}
 				]
