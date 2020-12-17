@@ -186,7 +186,7 @@
                 "Nombredelcanal": "Cadena 100",
                 "numerodecanal": [
 					{
-				  	"Formatodecanal":"mp3",
+				  	"Formatodecanal":"m3u8",
 				  	"Urldecanal":"https://cadena100-cope.flumotion.com/chunks.m3u8"
 					}
 				]
