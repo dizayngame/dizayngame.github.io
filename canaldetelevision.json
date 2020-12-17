@@ -1,0 +1,191 @@
+{
+    "espanatv": [
+        {
+                "Nombredelcanal": "Esport 3",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8"
+					}
+				]
+                
+        },
+		{
+				"Nombredelcanal": "Empordà TV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://liveingesta118.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "Paramount Network",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://paramount-live.flumotion.com/live/playlist.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "24h",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rtvelivestream.akamaized.net/24h_dvr.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "+24",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "Canal Parlamento",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "Andalucía",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "324",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "TV3CAT",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-ca.ccma.cat/ca/ngrp:tvc_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-ca.ccma.cat/ca/ngrp:tvi_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-es.ccma.cat/es/ngrp:tvi_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-int.ccma.cat/int/ngrp:tvc_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "TeleArchena",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "Popular TV Murcia",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://593fa17dec176.streamlock.net/gcm6/gcm6/master.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "7 R. de Murcia",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "Canal 10",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8"
+					}
+				]
+		},
+		{
+				"Nombredelcanal": "EsAsturiasTV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8"
+					}
+				]
+		}
+  ]
+}
