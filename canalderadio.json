@@ -141,7 +141,7 @@
                 "Nombredelcanal": "RAC 105",
                 "numerodecanal": [
 					{
-				  	"Formatodecanal":"mp3",
+				  	"Formatodecanal":"m3u8",
 				  	"Urldecanal":"https://streaming.rac105.cat/"
 					}
 				]
