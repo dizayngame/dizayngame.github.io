@@ -1,0 +1,195 @@
+{
+    "espanatv": [
+		{
+                "Nombredelcanal": "Radio Marca Sevilla",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Los 40",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Los 40 Classic",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Clásica FM Radio",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Canal Sur Radıo",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Radio Andalucia Inf
+",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/chunklist_b250000.m3u8"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Radio Marca",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://radiomarca.streaming-pro.com:8031/radiomarca.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Radio Marca Sevilla",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "SER Costa de la Luz",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://cervera.eldialdigital.com:8036/stream"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "SER Comarca",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://eu1.lhdserver.es:8075/stream"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "SER - Radio Ceuta",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "RTVCE",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/master.m3u8
+"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Radio María",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"http://dreamsiteradiocp.com:8060/;stream.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "SER - Radio Cádiz",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Hit FM",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "RAC 105",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://streaming.rac105.cat/"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Flaix FM",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://flaixfm.streaming-pro.com:8001/flaixfm.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Canal Fiesta Radio",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/chunklist_b250000.m3u8"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "KISS FM",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://kissfm.kissfmradio.cires21.com/kissfm.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Rock FM",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rockfm-cope.flumotion.com/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Cadena 100",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://cadena100-cope.flumotion.com/chunks.m3u8"
+					}
+				]
+        }
+  ]
+}
