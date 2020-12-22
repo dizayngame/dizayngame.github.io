@@ -1,0 +1,84 @@
+{
+    "arabiatv": [
+        {
+                "ArabiaCanalNAME": "Arabia 1",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Riyadia",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Asadisa",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "2m",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://edge.linknetott.swiftservehttp://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Al maghribia",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "al oula",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Arabia",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://live-hls-web-aje.getaj.net/AJE/06.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Chada",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+					}
+				]
+                
+        }
+  ]
+}

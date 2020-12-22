@@ -1,0 +1,74 @@
+{
+    "arabiatv": [
+        {
+                "ArabiaCanalNAME": "El Bilad TV",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_BILAD/iptvdz/EL_BILAD_240p/chunks.m3u8?wmsAuthSign=szLvwKUyd8AdQtaGXBgmAkOzHfsoCtLGTinS0hER90P2mIrgB5OkrnfM7qSCl5eYjNeaWFh43vD2VqRP1QV3pJFcbXYjb16HlMwcTUxi9DZWuo=="
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Samira TV",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/mono.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Ennahar TV",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/chunks.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Echorouk TV",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "isalm channel",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1151503922.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Alarabia 1",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Alarabia 2",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/chunks.m3u8"
+					}
+				]
+                
+        }
+  ]
+}

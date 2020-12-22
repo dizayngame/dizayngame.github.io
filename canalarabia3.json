@@ -1,0 +1,44 @@
+{
+    "arabiatv": [
+        {
+                "ArabiaCanalNAME": "National Geographic D",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Saudi TV1",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv-avc1_600000=4-mp4a_97200=2.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "arabia",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Ajial TV",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://192.34.153.37:7777/AjyalTV_HD/AjyalTV_HD.m3u8?user=sgls540839&session=b566f15f0480f807945f2de399c692171f96a6dc9f125ce17b3b7c85c34e94787c0f8772c4f2024f&hlsid=HTTP_ID_1&starttime=20200717T070353.805890"
+					}
+				]
+                
+        }
+  ]
+}

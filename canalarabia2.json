@@ -1,0 +1,34 @@
+{
+    "arabiatv": [
+        {
+                "ArabiaCanalNAME": "Bahrain International",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://185.105.4.107:1935/live/Bahrain%20TV/chunklist_w443668453.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Majid TV",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8"
+					}
+				]
+                
+        },
+		{
+                "ArabiaCanalNAME": "Arabia 3",
+                "Arabiacountercanal": [
+					{
+				  	"ArabiaCanalFormat":"m3u8",
+				  	"ArabiaCanalURL":"https://stream-11.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xnAesNnFuZxi-EdgzL6AXdg)/dm/3/x74wje5/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1"
+					}
+				]
+                
+        }
+  ]
+}
