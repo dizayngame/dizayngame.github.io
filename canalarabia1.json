@@ -35,7 +35,7 @@
                 "Arabiacountercanal": [
 					{
 				  	"ArabiaCanalFormat":"m3u8",
-				  	"ArabiaCanalURL":"http://edge.linknetott.swiftservehttp://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+				  	"ArabiaCanalURL":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
 					}
 				]
                 
