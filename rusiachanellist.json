@@ -1,0 +1,409 @@
+{
+    "russiachanels": [
+		{
+                "russiachanelname": "нтв",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/ntv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Первый канал",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/pervyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Рен-ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/rentv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Россия-24",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/rossiya24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Россия-1",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/rossiya1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "ТНТ-Comedy",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/comedytv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "СТС",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/sts.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Звезда",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/zvezda.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Пятый канал",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/pyatyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Че",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/perec.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "ТВ-3",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/tvtri-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "ТВ-Центр",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/tvc-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "КХЛ ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/khl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Интер",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/inter.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Домашний",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/domashniy-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Карусель",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/karusel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "СТС Love",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/stslove.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "СПАС",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/spas.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "НСТ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/nst-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Россия Культура",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/rossiyak.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Russia Today",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://rtmp.api.rt.com/hls/rtdru.m3u8"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Детский мир",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/dmir.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Комедия ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/komediya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Иллюзион +",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/illyuzionpl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Русский иллюзион",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/rusillyuzion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Индия ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/indiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Ностальгия",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/nostalgiya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "RU.TV",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/rutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Европа плюс ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/europe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Муз-ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/muztv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Russian Music Box",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/musicbox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Музыка Первого",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/muzika.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Bridge TV",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/bridge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Ля-Минор ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/lyaminor.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "24 Док",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/24doc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Драйв ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/drive.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Оружие",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/oruzhie.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Охотник и рыболов",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/rybalka.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Охота и рыбалка",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/ohota.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Кухня ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/kuhnya.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Моя Планета",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/moyaplaneta.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "РТР Планета",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/rtrpl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "РБК",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/rbk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Пятый канал (Украина)",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/ua5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        },
+		{
+                "russiachanelname": "Совершенно секретно",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/sovsek.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        }
+  ]
+}
