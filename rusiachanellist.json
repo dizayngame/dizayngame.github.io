@@ -1,7 +1,7 @@
 {
     "russiachanels": [
 		{
-                "russiachanelname": "Russia Today",
+                "russiachanelname": "Russia Today" ,
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
