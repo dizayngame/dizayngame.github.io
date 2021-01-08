@@ -1,227 +1,110 @@
 {
     "russiachanels": [
 		{
-                "russiachanelname": "Russia Today" ,
+                "russiachanelname": "Белгород 24",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32281"
+				  	"rusiachannelurl":"http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Первый канал Евразия",
+                "russiachanelname": "TV1000 Action",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/perviy_evrasia/playlist.m3u8"
+				  	"rusiachannelurl":"http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Россия 1",
+                "russiachanelname": "V1000 Русское Кино",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32718"
+				  	"rusiachannelurl":"http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "2x2",
+                "russiachanelname": "Беларусь 24",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2"
+				  	"rusiachannelurl":"http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Food Network",
+                "russiachanelname": "24 канал",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/ucom/s18/04.m3u8"
+				  	"rusiachannelurl":"http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4"
 					}
 				]
         },
 		{
-                "russiachanelname": "Калейдоскоп ТВ",
+                "russiachanelname": "31 канал",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/kaledoskop/playlist.m3u8"
+				  	"rusiachannelurl":"https://sc.id-tv.kz/31Kanal_38_39.m3u8?rus-iptv.ru"
 					}
 				]
         },
 		{
-                "russiachanelname": "СТВ",
+                "russiachanelname": "34 канал",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/ctvby/playlist.m3u8"
+				  	"rusiachannelurl":"http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Ю +4",
+                "russiachanelname": "Мир 24 HD",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/CH_U_4/playlist.m3u8"
+				  	"rusiachannelurl":"http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "ТНТ 4",
+                "russiachanelname": "Москва 24",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/tnt-4-hd/playlist.m3u8"
+				  	"rusiachannelurl":"http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Пятница HD",
+                "russiachanelname": "Моя Планета",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/friday-hd/playlist.m3u8"
+				  	"rusiachannelurl":"http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Супер HD",
+                "russiachanelname": "Мультиландия",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/super-hd/playlist.m3u8"
+				  	"rusiachannelurl":"http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "ТНТ HD",
+                "russiachanelname": "НАШ",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/tnt-hd-ru/playlist.m3u8"
-					}
-				]
-        },
-		{
-                "russiachanelname": "ТВ-3 HD",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/tv3_hd/playlist.m3u8"
-					}
-				]
-        },
-		{
-                "russiachanelname": "Новый мир",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://lutv-du.ddns.net:8081/live/nw/playlist.m3u8"
-					}
-				]
-        },
-		{
-                "russiachanelname": "Россия 24",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32259"
-					}
-				]
-        },
-		{
-                "russiachanelname": "Россия К",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32265t"
-					}
-				]
-        },
-		{
-                "russiachanelname": "Доктор",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32288"
-					}
-				]
-        },
-		{
-                "russiachanelname": "Радость моя",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32334"
-					}
-				]
-        },
-		{
-                "russiachanelname": "БелРос",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32341"
-					}
-				]
-        },
-		{
-                "russiachanelname": "ОТР",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32343"
-					}
-				]
-        },
-		{
-                "russiachanelname": "ТДК",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32354"
-					}
-				]
-        },
-		{
-                "russiachanelname": "История",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32374"
-					}
-				]
-        },
-		{
-                "russiachanelname": "HD Life",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32375"
-					}
-				]
-        },
-		{
-                "russiachanelname": "TV5 Запорожье",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://tv7plus.com/hls/tv7_site.m3u8"
-					}
-				]
-        },
-		{
-                "russiachanelname": "Еспресо",
-                "russiachannelfeature": [
-					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8"
+				  	"rusiachannelurl":"http://85.192.44.14/hls/MultimaniaRu/playlist.m3u8"
 					}
 				]
         },
@@ -230,16 +113,142 @@
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://109.68.41.148:1935/live/ntn_3/playlist.m3u8"
+				  	"rusiachannelurl":"https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8"
 					}
 				]
         },
 		{
-                "russiachanelname": "Красная Линия",
+                "russiachanelname": "Наше ТВ Витебск",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8"
+				  	"rusiachannelurl":"http://95.46.208.8:26259/nashe"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Россия 1 HD",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Россия 24",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Россия К",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Ростов-папа HD",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "russiachanelname": "8 канал",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://176.99.110.252/stream8/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "russiachanelname": "ТВЦентр",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32253"
+					}
+				]
+        },
+		{
+                "russiachanelname": "РенТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32255"
+					}
+				]
+        },
+		{
+                "russiachanelname": "РБК ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32282"
+					}
+				]
+        },
+		{
+                "russiachanelname": "ЕДА Премиум",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32283"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Русский роман",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/33099"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Три ангела",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/33092"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Синергия ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/33090"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Первый",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32910"
+					}
+				]
+        },
+		{
+                "russiachanelname": "Твой дом",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32884"
 					}
 				]
         }
