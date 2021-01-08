@@ -4,7 +4,7 @@
                 "russiachanelname": "Russia Today",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"dash",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32281"
 					}
 				]
@@ -22,7 +22,7 @@
                 "russiachanelname": "Россия 1",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32718"
 					}
 				]
@@ -130,7 +130,7 @@
                 "russiachanelname": "Россия 24",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32259"
 					}
 				]
@@ -139,7 +139,7 @@
                 "russiachanelname": "Россия К",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32265t"
 					}
 				]
@@ -148,7 +148,7 @@
                 "russiachanelname": "Доктор",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32288"
 					}
 				]
@@ -157,7 +157,7 @@
                 "russiachanelname": "Радость моя",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32334"
 					}
 				]
@@ -166,7 +166,7 @@
                 "russiachanelname": "БелРос",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32341"
 					}
 				]
@@ -175,7 +175,7 @@
                 "russiachanelname": "ОТР",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32343"
 					}
 				]
@@ -184,7 +184,7 @@
                 "russiachanelname": "ТДК",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32354"
 					}
 				]
@@ -193,7 +193,7 @@
                 "russiachanelname": "История",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32374"
 					}
 				]
@@ -202,7 +202,7 @@
                 "russiachanelname": "HD Life",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://89.163.224.21:8050/mag/32375"
 					}
 				]
