@@ -4,7 +4,7 @@
                 "russiachanelname": "Russia Today",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"dash",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32281"
 					}
 				]
