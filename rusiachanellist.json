@@ -121,7 +121,7 @@
                 "russiachanelname": "Наше ТВ Витебск",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://95.46.208.8:26259/nashe"
 					}
 				]
@@ -175,7 +175,7 @@
                 "russiachanelname": "ТВЦентр",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32253"
 					}
 				]
@@ -184,7 +184,7 @@
                 "russiachanelname": "РенТВ",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32255"
 					}
 				]
@@ -193,7 +193,7 @@
                 "russiachanelname": "РБК ТВ",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32282"
 					}
 				]
@@ -202,7 +202,7 @@
                 "russiachanelname": "ЕДА Премиум",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32283"
 					}
 				]
@@ -211,7 +211,7 @@
                 "russiachanelname": "Русский роман",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/33099"
 					}
 				]
@@ -220,7 +220,7 @@
                 "russiachanelname": "Три ангела",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/33092"
 					}
 				]
@@ -229,7 +229,7 @@
                 "russiachanelname": "Синергия ТВ",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/33090"
 					}
 				]
@@ -238,7 +238,7 @@
                 "russiachanelname": "Первый",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32910"
 					}
 				]
@@ -247,7 +247,7 @@
                 "russiachanelname": "Твой дом",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
+				  	"russiachannelformat":"eks",
 				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32884"
 					}
 				]
