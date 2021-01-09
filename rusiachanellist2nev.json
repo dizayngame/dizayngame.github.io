@@ -1,0 +1,13 @@
+{
+    "russiachanels": [
+		{
+                "russiachanelname": "Моя Планета",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://178.162.205.85:8081/chasandr/moyaplaneta.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+					}
+				]
+        }
+  ]
+}
