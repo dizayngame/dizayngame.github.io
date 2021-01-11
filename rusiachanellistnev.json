@@ -1,20 +1,20 @@
 {
     "russiachanels": [
 		{
-                "russiachanelname": "Россия-24",
+                "russiachanelname": "Москва 24",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/rossiya24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+				  	"russiachannelformat":"veb",
+				  	"rusiachannelurl":"https://www.m24.ru/live"
 					}
 				]
         },
 		{
-                "russiachanelname": "Россия-1",
+                "russiachanelname": "ТВ-3",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"m3u8",
-				  	"rusiachannelurl":"http://178.162.218.83:8081/chasandr/rossiya1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6NDk6NTcgQU0maGFzaF92YWx1ZT10cFpvK1l1ekVvWDdhci8yY2txM3B3PT0mdmFsaWRtaW51dGVzPTIwMDA="
+				  	"russiachannelformat":"veb",
+				  	"rusiachannelurl":"https://tv3.ru/live"
 					}
 				]
         }
