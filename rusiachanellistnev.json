@@ -5,16 +5,16 @@
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"veb",
-				  	"rusiachannelurl":"https://www.m24.ru/live"
+				  	"rusiachannelurl":"https://www.youtube.com/watch?v=NH7wu_O0hMc"
 					}
 				]
         },
 		{
-                "russiachanelname": "ТВ-3",
+                "russiachanelname": "Россия-1",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"veb",
-				  	"rusiachannelurl":"https://tv3.ru/live"
+				  	"rusiachannelurl":"https://www.youtube.com/watch?v=8T9SFZDP60Q"
 					}
 				]
         }
