@@ -10,11 +10,11 @@
 				]
         },
 		{
-                "russiachanelname": "Russia Today",
+                "russiachanelname": "Nat Geo Wild HD",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"eks",
-				  	"rusiachannelurl":"http://163.172.39.233:8050/mag/32281"
+				  	"rusiachannelurl":"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
 					}
 				]
         },
