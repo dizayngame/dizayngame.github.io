@@ -1,11 +1,11 @@
 {
     "russiachanels": [
 		{
-                "russiachanelname": "РЕН ТВ",
+                "russiachanelname": "5 Канал",
                 "russiachannelfeature": [
 					{
 				  	"russiachannelformat":"veb",
-				  	"rusiachannelurl":"https://ren.tv/live"
+				  	"rusiachannelurl":"https://www.youtube.com/watch?v=fn5NQbDV2R8"
 					}
 				]
         }
