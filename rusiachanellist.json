@@ -211,7 +211,7 @@
                 "russiachanelname": "РБК ТВ",
                 "russiachannelfeature": [
 					{
-				  	"russiachannelformat":"eks",
+				  	"russiachannelformat":"m3u8",
 				  	"rusiachannelurl":"http://online-video.rbc.ru/online/rbctv_576p/index.m3u8"
 					}
 				]
