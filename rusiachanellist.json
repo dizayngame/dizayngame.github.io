@@ -1,5 +1,14 @@
 {
     "russiachanels": [
+	    {
+                "russiachanelname": "Известия ТВ HD",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
+					}
+				]
+        },
 	     {
                 "russiachanelname": "ЭХО ТВ",
                 "russiachannelfeature": [
