@@ -1,5 +1,14 @@
 {
     "russiachanels": [
+	     {
+                "russiachanelname": "Думская ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8"
+					}
+				]
+        },
 	    {
                 "russiachanelname": "Известия ТВ HD",
                 "russiachannelfeature": [
