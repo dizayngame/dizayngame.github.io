@@ -1,6 +1,15 @@
 {
     "russiachanels": [
 	     {
+                "russiachanelname": "Южная волна",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://cdn1.live-tv.od.ua:8081/wave/wave-abr-lq/playlist.m3u8"
+					}
+				]
+        },
+	     {
                 "russiachanelname": "Думская ТВ",
                 "russiachannelfeature": [
 					{
