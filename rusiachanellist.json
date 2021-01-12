@@ -1,6 +1,33 @@
 {
     "russiachanels": [
 	     {
+                "russiachanelname": "Репортер",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr-lq/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "russiachanelname": "3-й цифровой",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr-lq/playlist.m3u8"
+					}
+				]
+        },
+	      {
+                "russiachanelname": "1-й городской",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8"
+					}
+				]
+        },
+	     {
                 "russiachanelname": "Южная волна",
                 "russiachannelfeature": [
 					{
