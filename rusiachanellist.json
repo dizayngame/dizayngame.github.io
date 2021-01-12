@@ -1,5 +1,14 @@
 {
     "russiachanels": [
+	     {
+                "russiachanelname": "ЭХО ТВ",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8"
+					}
+				]
+        },
 	    {
                 "russiachanelname": "Кавказ 24",
                 "russiachannelfeature": [
