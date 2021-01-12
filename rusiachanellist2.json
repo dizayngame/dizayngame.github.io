@@ -1,5 +1,14 @@
 {
     "russiachanels": [
+	    {
+                "russiachanelname": "Астрахань 24",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://streaming.astrakhan.ru/astrakhan24/index.m3u8"
+					}
+				]
+        },
 	     {
                 "russiachanelname": "Поехали",
                 "russiachannelfeature": [
