@@ -1,5 +1,14 @@
 {
     "russiachanels": [
+	    {
+                "russiachanelname": "Кавказ 24",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8"
+					}
+				]
+        },
 		{
                 "russiachanelname": "Белгород 24",
                 "russiachannelfeature": [
