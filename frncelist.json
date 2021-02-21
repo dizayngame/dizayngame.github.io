@@ -1,182 +1,272 @@
 {
-    "canals": [
-		{
-                "canal_name": "W9",
-                "canal_tay": [
+    "TvFrance": [
+	      {
+                "TvFranceCanalName": "France2",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://raw.githubusercontent.com/sofien4387/token/master/w_neuf",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "TFX",
-                "canal_tay": [
+                "TvFranceCanalName": "France3",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "TF1",
-                "canal_tay": [
+                "TvFranceCanalName": "France4",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france4live-43225/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "LCI - La Chaîne",
-                "canal_tay": [
+                "TvFranceCanalName": "France5",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france5live-12474/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "TMC",
-                "canal_tay": [
+                "TvFranceCanalName": "TF1",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "BFMTV",
-                "canal_tay": [
+                "TvFranceCanalName": "France 24",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "NRJ 12",
-                "canal_tay": [
+                "TvFranceCanalName": "France Ô",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8?sd=10&rebase=on",
-					"canal_player_values":"1"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_O%2Fhls%2Findex.m3u8",
+					"TvFranceCanalPlayer":"1"
 					}
 				]
         },
 		{
-                "canal_name": "France Ô",
-                "canal_tay": [
+                "TvFranceCanalName": "Franceinfo",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_O%2Fhls%2Findex.m3u8",
-					"canal_player_values":"1"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "6ter",
-                "canal_tay": [
+                "TvFranceCanalName": "M6",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://raw.githubusercontent.com/sofien4387/token/master/six_ter",
-					"canal_player_values":"1"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://raw.githubusercontent.com/sofien4387/token/master/m_six",
+					"TvFranceCanalPlayer":"1"
 					}
 				]
         },
 		{
-                "canal_name": "TF1",
-                "canal_tay": [
+                "TvFranceCanalName": "C8",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "Chérie 25",
-                "canal_tay": [
+                "TvFranceCanalName": "W9",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"http://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://raw.githubusercontent.com/sofien4387/token/master/w_neuf",
+					"TvFranceCanalPlayer":"1"
 					}
 				]
         },
 		{
-                "canal_name": "Gulli",
-                "canal_tay": [
+                "TvFranceCanalName": "TFX",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8",
-					"canal_player_values":"2"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
 		{
-                "canal_name": "France Info",
-                "canal_tay": [
+                "TvFranceCanalName": "CSTAR",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
-					"canal_player_values":"3"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "La Chaîne parlementaire",
-                "canal_tay": [
+                "TvFranceCanalName": "L'Equipe",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1",
-					"canal_player_values":"3"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "C8",
-                "canal_tay": [
+                "TvFranceCanalName": "La Chaîne parlementaire",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1",
-					"canal_player_values":"3"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "L'Equipe",
-                "canal_tay": [
+                "TvFranceCanalName": "RMC Story",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1",
-					"canal_player_values":"3"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/x13p3qi?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "CSTAR",
-                "canal_tay": [
+                "TvFranceCanalName": "CNEWS",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1",
-					"canal_player_values":"3"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1",
+					"TvFranceCanalPlayer":"3"
 					}
 				]
         },
 		{
-                "canal_name": "RMC Story",
-                "canal_tay": [
+                "TvFranceCanalName": "6ter",
+                "TvFranceCounterContent": [
 					{
-				  	"canal_type":"m3u8",
-				  	"canal_url":"https://www.dailymotion.com/embed/video/x13p3qi?autoPlay=1",
-					"canal_player_values":"3"
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://raw.githubusercontent.com/sofien4387/token/master/six_ter",
+					"TvFranceCanalPlayer":"1"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "Chérie 25",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "RMC Découverte",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "Gulli",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "TMC",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "Arte",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "BFMTV",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "NRJ 12",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "LCI - La Chaîne Info",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "TF1 Séries Films",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8",
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         }
