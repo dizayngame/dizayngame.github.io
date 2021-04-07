@@ -1,0 +1,22 @@
+{
+    "russiachanels": [
+	     {
+                "russiachanelname": "NIPPON TV",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
+					}
+				]
+        },
+	     {
+                "russiachanelname": "TBS",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8"
+					}
+				]
+        }
+  ]
+}

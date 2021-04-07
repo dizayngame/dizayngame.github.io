@@ -1,0 +1,22 @@
+{
+    "russiachanels": [
+	     {
+                "russiachanelname": "NHK E",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8"
+					}
+				]
+        },
+	    {
+                "russiachanelname": "NHK G",
+                "russiachannelfeature": [
+					{
+				  	"russiachannelformat":"m3u8",
+				  	"rusiachannelurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8"
+					}
+				]
+        }
+  ]
+}
